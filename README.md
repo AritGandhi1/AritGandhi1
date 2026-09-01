@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Shashank%20M%20N&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Arit%20M%20N&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Good%20software%20is%20engineered%2C%20not%20assembled." alt="Typing introduction" width="100%" />
@@ -16,10 +16,10 @@
 
 ## 📊 GitHub Stats
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
-  <a href="https://github.com/Shashank-M-N">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shashank-M-N&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Shashank-M-N's GitHub Stats" />
+  <a href="https://github.com/AritGandhi1">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AritGandhi1&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="AritGandhi1's GitHub Stats" />
   </a>
-  <img height="180" src="https://streak-stats.demolab.com/?user=Shashank-M-N&theme=dark&hide_border=true&cache_seconds=86400" alt="Shashank-M-N's GitHub Streak" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=AritGandhi1&theme=dark&hide_border=true&cache_seconds=86400" alt="AritGandhi1's GitHub Streak" />
 </div>
 
 
@@ -59,20 +59,20 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/Shashank-M-N">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shashank-M-N&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/AritGandhi1">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AritGandhi1&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://github.com/Shashank-M-N">
+  <a href="https://github.com/AritGandhi1">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" alt="GitHub" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shashank-mn/">
+  <a href="https://www.linkedin.com/in/arit-gandhi-bbb97b286//">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mnshashank432@gmail.com">
+  <a href="mailto:aritgandhi10@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
