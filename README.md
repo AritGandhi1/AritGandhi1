@@ -1,6 +1,6 @@
 <p align="left">
-  <a href="https://komarev.com/ghpvc/?username=Shashank-M-N">
-    <img src="https://komarev.com/ghpvc/?username=Shashank-M-N&label=Profile%20views&color=00FFFF&style=flat-square" alt="Shashank-M-N's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=AritGandhi1">
+    <img src="https://komarev.com/ghpvc/?username=AritGandhi1&label=Profile%20views&color=00FFFF&style=flat-square" alt="AritGandhi1's profile views" />
   </a>
 </p>
 
