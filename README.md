@@ -35,33 +35,80 @@
 </p>
 
 <br />
-
 <p align="center">
-  <strong>Frontend & Backend</strong><br /><br />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="Flask" width="45" /></a>
-</p>
+  <strong>Programming Languages</strong><br /><br />
 
-<br />
+  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<p align="center">
-  <strong>Databases, DevOps & Tools</strong><br /><br />
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/windows/wsl/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Windows_Subsystem_for_Linux_logo.png" alt="WSL" width="45" /></a>
-</p>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br />
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<p align="center">
-  <a href="https://github.com/AritGandhi1">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AritGandhi1&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" />
   </a>
+</p>
+
+<br />
+
+<p align="center">
+  <strong>Web Technologies</strong><br /><br />
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <strong>Databases & Containers</strong><br /><br />
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="45" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.kubeflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.kubeflow.org/docs/images/logos/Kubeflow.svg" alt="Kubeflow" width="45" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <strong>Computer Science & Core Skills</strong><br /><br />
+
+  🧠 <strong>Data Structures & Algorithms (DSA)</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+  ⚡ <strong>Multithreading & Concurrent Programming</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+  🚀 <strong>C++ (Proficient)</strong>
 </p>
 
 ## 🔗 Connect with Me
