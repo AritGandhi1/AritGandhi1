@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Arit%20M%20N&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Arit%20Gandhi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Good%20software%20is%20engineered%2C%20not%20assembled." alt="Typing introduction" width="100%" />
